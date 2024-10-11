@@ -1,0 +1,26 @@
+[
+  {
+    "value": "VISA",
+    "synonyms": [
+      "VISA",
+      "Visa",
+      "visa"
+    ]
+  },
+  {
+    "value": "MasterCard",
+    "synonyms": [
+      "MasterCard",
+      "MASTERCARD",
+      "mastercard"
+    ]
+  },
+  {
+    "value": "PayPal",
+    "synonyms": [
+      "PayPal",
+      "PAYPAL",
+      "paypal"
+    ]
+  }
+]

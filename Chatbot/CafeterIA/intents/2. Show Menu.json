@@ -1,0 +1,35 @@
+{
+  "id": "e390c7dd-3fdf-41db-996a-d76112210c5d",
+  "name": "2. Show Menu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here is our menu:\n\nCOFFEE\nAmericano -- 3.00€\nCappuccino -- 4.00€\nMacchiato -- 4.25€\nEspresso -- 2.5€\nMocha -- 4.75€\n\nHOT DRINKS\nHot Chocolate -- 4.00€\nWhite Chocolate -- 4.25€\nVanila Tea -- 3.5€\nGreen Tea -- 3.00€\n\nDo you have any allergies? If so, which ones?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

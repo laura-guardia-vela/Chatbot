@@ -1,0 +1,69 @@
+[
+  {
+    "id": "06164429-f5d8-426c-a8d5-10f387286d22",
+    "data": [
+      {
+        "text": "No, I do not have allergies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66d46558-3792-4395-b57e-c5a9088743cd",
+    "data": [
+      {
+        "text": "No, I don\u0027t have any allergies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84659d57-1964-4d22-8324-d0459b4e3c50",
+    "data": [
+      {
+        "text": "No, I don\u0027t",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e92269f-14fc-4682-8342-301ebe983351",
+    "data": [
+      {
+        "text": "I have no allergies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39a736d4-461f-4731-92a1-fc0081d06204",
+    "data": [
+      {
+        "text": "Cacao",
+        "meta": "@Allergies",
+        "alias": "Allergies",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

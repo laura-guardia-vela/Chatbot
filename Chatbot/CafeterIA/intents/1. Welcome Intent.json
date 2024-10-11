@@ -1,0 +1,57 @@
+{
+  "id": "6fab9c51-dd25-4750-9ea9-de992731eeda",
+  "name": "1. Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "18e4f970-9721-4e17-a8ff-f1d9a6fab682",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello! Welcome to CafeterIA, where you can place your coffee order online and we will deliver it! What can I get started for you today?",
+            "Hello! Welcome to CafeterIA, where you can place your coffee order online and we will deliver it! How can I help you today?",
+            "Hello! Welcome to CafeterIA, where you can place your coffee order online and we will deliver it! How can I assist?",
+            "Hello! Welcome to CafeterIA, where you can place your coffee order online and we will deliver it! Would you like to place one?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

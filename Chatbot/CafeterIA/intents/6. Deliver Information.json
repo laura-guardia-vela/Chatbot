@@ -1,0 +1,50 @@
+{
+  "id": "5854cbfb-9b7d-4522-87ca-70a1a65d05cc",
+  "name": "6. Deliver Information",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f564b8c3-d9e3-457c-a4ed-5bf92cb15930",
+          "name": "syslocation",
+          "required": true,
+          "dataType": "@sys.location",
+          "value": "$syslocation",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We will deliver at the following address: $syslocation\nLet\u0027s proceed to the payment information. Which type of payment do you want to do: VISA, MasterCard or PayPal?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

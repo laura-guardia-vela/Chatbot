@@ -1,0 +1,55 @@
+{
+  "id": "494c6cc7-ff59-4eab-b2e3-a4ca1b6d4732",
+  "name": "7. Select CardType",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ef4c9280-d7cf-4218-af82-e9bd288d61e2",
+          "name": "CardType",
+          "required": true,
+          "dataType": "@CardType",
+          "value": "$CardType",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sorry, this method is not available. You can pay only with VISA, MasterCard or PayPal."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay, $CardType is a valid type of card.\nNow, introduce the number of your card to finish your payment."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

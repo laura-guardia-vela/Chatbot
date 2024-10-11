@@ -1,0 +1,17 @@
+[
+  {
+    "id": "9f314df7-ab4b-4b51-9153-e188b5ba33c3",
+    "data": [
+      {
+        "text": "1234567890123456",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

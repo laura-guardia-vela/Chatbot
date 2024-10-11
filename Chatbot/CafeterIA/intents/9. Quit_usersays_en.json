@@ -1,0 +1,67 @@
+[
+  {
+    "id": "a4d64ea0-1334-4da8-9c2b-68fc28843f03",
+    "data": [
+      {
+        "text": "I have to leave",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b214feb-5757-4f2d-9a9a-c29ce6b6d6cd",
+    "data": [
+      {
+        "text": "I have to go",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4915a758-47a7-4714-80f2-0607fd78b02a",
+    "data": [
+      {
+        "text": "Bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "785c53af-bd1e-40e2-bcc6-c68c4128fd7d",
+    "data": [
+      {
+        "text": "I don\u0027t want to order anything anymore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9de0efe-45a5-460b-8e5e-850507878015",
+    "data": [
+      {
+        "text": "I changed my mind, I don\u0027t want to order anything anymore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "ec0cd3b0-b841-4400-a68e-b989a4dc4681",
+    "data": [
+      {
+        "text": "Americano",
+        "meta": "@Drinks",
+        "alias": "Drinks",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "f731b608-39b4-43a9-86c9-e7ea3f8a1687",
+  "name": "Allergies",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

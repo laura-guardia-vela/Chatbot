@@ -1,0 +1,9 @@
+{
+  "id": "c52a63d0-96d4-4cae-910b-189fe8c28595",
+  "name": "CardType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

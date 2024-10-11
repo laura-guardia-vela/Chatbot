@@ -1,0 +1,54 @@
+[
+  {
+    "id": "324f01b7-18b4-4349-93a6-701124f4d109",
+    "data": [
+      {
+        "text": "What are the most popular drinks?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db5dfe7d-e331-4917-87be-6b175d7a6494",
+    "data": [
+      {
+        "text": "What do you suggest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24a5e5da-9d11-4c22-8725-d82d048c9f10",
+    "data": [
+      {
+        "text": "Can you recommend me something?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fa80f47-f29d-4fe5-ad91-03c24b8adf42",
+    "data": [
+      {
+        "text": "What do you recommend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

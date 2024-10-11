@@ -1,0 +1,34 @@
+[
+  {
+    "value": "Lactose",
+    "synonyms": [
+      "Lactose",
+      "lactose",
+      "Sheep Milk",
+      "Cow Milk",
+      "Milk"
+    ]
+  },
+  {
+    "value": "Cacao",
+    "synonyms": [
+      "Cacao",
+      "cacao"
+    ]
+  },
+  {
+    "value": "Caffeine",
+    "synonyms": [
+      "caffeine",
+      "Caffeine"
+    ]
+  },
+  {
+    "value": "Vanila",
+    "synonyms": [
+      "Vanila",
+      "vanila",
+      "vanilla"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "id": "ac165a2f-ee71-47dd-ad49-77972f958b29",
+  "name": "4. Place order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "4Placeorder-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "770dbc15-05b0-41b1-b63d-b8c0eafe75ba",
+          "name": "Drinks",
+          "required": true,
+          "dataType": "@Drinks",
+          "value": "$Drinks",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "We don\u0027t have what you asked for. We just have Americano, Cappuccinno, Macchiato, Espresso, Mocha, Hot Chocolate, White Chocolate, Vanila Tea and Green Tea. What drink would you like?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You ordered a $Drinks. Would you like to add a topping to your $Drinks? We have the following toppings:\nCream, Lacasitos, Chocolate syrup, Caramel, Ice, Mini Oreo, and Kit Kat."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

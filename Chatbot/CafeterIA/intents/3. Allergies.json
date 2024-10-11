@@ -1,0 +1,55 @@
+{
+  "id": "cacf5ad7-4cdd-468c-897b-b31bea1d585e",
+  "name": "3. Allergies",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fce05270-0a16-4379-860d-66b142e138f7",
+          "name": "Allergies",
+          "required": true,
+          "dataType": "@Allergies",
+          "value": "$Allergies",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Perfect! You can have whatever you want from our menu. What would you like to order?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You have allergy to $Allergies . Here is our menu including the allergies:\n\nCOFFEE\nAmericano (Allergies: Caffeine, Lactose) -- 3.00€\nCappuccino (Allergies: Caffeine, Lactose, Cacao) -- 4.00€\nMacchiato (Allergies: Caffeine, Lactose) -- 4.25€\nEspresso (Allergies: Caffeine, Lactose) -- 2.5€\nMocha (Allergies: Caffeine, Lactose, Cacao) -- 4.75€\n\nHOT DRINKS\nHot Chocolate (Allergies: Cacao)  -- 4.00€\nWhite Chocolate (Allergies: Cacao) -- 4.25€\nVanila Tea (Allergies: Vanila) -- 3.5€\nGreen Tea -- 3.00€\n\nWhat would you like to order?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

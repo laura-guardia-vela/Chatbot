@@ -1,0 +1,57 @@
+[
+  {
+    "value": "Cream",
+    "synonyms": [
+      "Cream",
+      "cream"
+    ]
+  },
+  {
+    "value": "Lacasitos",
+    "synonyms": [
+      "Lacasitos",
+      "lacasitos"
+    ]
+  },
+  {
+    "value": "Chocolate syrup",
+    "synonyms": [
+      "Chocolate syrup",
+      "chocolate syrup",
+      "chocolate Syrup",
+      "Syrup of chocolate"
+    ]
+  },
+  {
+    "value": "Caramel",
+    "synonyms": [
+      "Caramel",
+      "caramel"
+    ]
+  },
+  {
+    "value": "Mini Oreo",
+    "synonyms": [
+      "Mini Oreo",
+      "mini oreo",
+      "oreo"
+    ]
+  },
+  {
+    "value": "Ice",
+    "synonyms": [
+      "Ice",
+      "ice"
+    ]
+  },
+  {
+    "value": "Kit Kat",
+    "synonyms": [
+      "Kit Kat",
+      "kit kat",
+      "kitkat",
+      "kit-kat",
+      "Kit-Kat"
+    ]
+  }
+]

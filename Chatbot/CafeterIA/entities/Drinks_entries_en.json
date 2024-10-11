@@ -1,0 +1,56 @@
+[
+  {
+    "value": "Americano",
+    "synonyms": [
+      "Americano"
+    ]
+  },
+  {
+    "value": "Cappuccino",
+    "synonyms": [
+      "Cappuccino"
+    ]
+  },
+  {
+    "value": "Macchiato",
+    "synonyms": [
+      "Macchiato"
+    ]
+  },
+  {
+    "value": "Espresso",
+    "synonyms": [
+      "Espresso"
+    ]
+  },
+  {
+    "value": "Mocha",
+    "synonyms": [
+      "Mocha"
+    ]
+  },
+  {
+    "value": "Hot Chocolate",
+    "synonyms": [
+      "Hot Chocolate"
+    ]
+  },
+  {
+    "value": "White Chocolate",
+    "synonyms": [
+      "White Chocolate"
+    ]
+  },
+  {
+    "value": "Vanila Tea",
+    "synonyms": [
+      "Vanila Tea"
+    ]
+  },
+  {
+    "value": "Green Tea",
+    "synonyms": [
+      "Green Tea"
+    ]
+  }
+]

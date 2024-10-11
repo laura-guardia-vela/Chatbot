@@ -1,0 +1,203 @@
+[
+  {
+    "id": "0aa3eedf-c825-49fa-908f-709b669871fe",
+    "data": [
+      {
+        "text": "I would like a coffee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e697346-8e7a-4d1d-8aba-0283b7ba8fb7",
+    "data": [
+      {
+        "text": "Hi, I want a coffee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a1b1c5a-ab11-40cd-8dee-e54d79a18a6c",
+    "data": [
+      {
+        "text": "I\u0027m very sleepy and I need some coffee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32fe103e-abb8-40b3-b8fe-a4dcf7369b46",
+    "data": [
+      {
+        "text": "Hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fdfbc4e-8878-46c5-95c8-15be32c9dc36",
+    "data": [
+      {
+        "text": "G\u0027day ",
+        "userDefined": false
+      },
+      {
+        "text": "mate",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "775abc27-09a7-4f7e-b765-dad2903f127f",
+    "data": [
+      {
+        "text": "Hi there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a998dc1f-836a-4eb2-9d53-57f85d7fe9f4",
+    "data": [
+      {
+        "text": "How\u0027s it going?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0bb27ed-1983-4ada-971b-76333668e98e",
+    "data": [
+      {
+        "text": "Hii",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6679097b-8763-4ba0-8db9-4bf4065e017b",
+    "data": [
+      {
+        "text": "What\u0027s up?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1653b398-7a60-420d-9d74-d97e743300cd",
+    "data": [
+      {
+        "text": "Good evening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85d92a38-1e05-4f37-bd27-de7729d3c514",
+    "data": [
+      {
+        "text": "Good afternoon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aaee2272-996c-48f5-bdf2-09c2000b99df",
+    "data": [
+      {
+        "text": "Good day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c363e1c4-d70e-483c-a331-ca4a3f917d11",
+    "data": [
+      {
+        "text": "Good morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "841a73ef-f5fc-4598-9c06-3d19ddcb856e",
+    "data": [
+      {
+        "text": "Hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67987ec1-1721-44c8-bebc-979493a40aca",
+    "data": [
+      {
+        "text": "Hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "44b4182e-acbc-42f3-96f6-e848c4da4067",
+    "data": [
+      {
+        "text": "I want a coffee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "acea3401-081b-48c8-acf5-f785b5b5453a",
+    "data": [
+      {
+        "text": "Show me the menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f00a56f-ec8f-4016-bb46-0c4561c7fc5d",
+    "data": [
+      {
+        "text": "I would like to see the menu, please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfc7bf13-8283-41ff-b9b1-f25067feed07",
+    "data": [
+      {
+        "text": "What can you give me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73d98cb3-22d8-492c-a353-3df5b001b75e",
+    "data": [
+      {
+        "text": "What do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3314bbe2-a9e4-4106-b960-cbc6344d4473",
+    "data": [
+      {
+        "text": "What do you sell?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc01832a-3480-4bba-8d5a-ab7ebdce5cc6",
+    "data": [
+      {
+        "text": "What is the menu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b576c63-0794-4762-bad4-74f53bc9d216",
+    "data": [
+      {
+        "text": "What do you offer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

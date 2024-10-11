@@ -1,0 +1,55 @@
+{
+  "id": "47125933-4f58-4a59-b07a-871bcf6742e1",
+  "name": "5. Add Toppings",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fe3d6361-040f-405f-aea1-425222ff64c0",
+          "name": "Toppings",
+          "required": true,
+          "dataType": "@Toppings",
+          "value": "$Toppings",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "We don\u0027t have what you asked for. We just have Cream, Lacasitos, Chocolate syrup, Caramel, Ice, Mini Oreo, and Kit Kat. Which one would you like to add to your drink?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You added successfully $Toppings to your drink!\nWhere do you want it to be delivered?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

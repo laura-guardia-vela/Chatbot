@@ -1,0 +1,38 @@
+[
+  {
+    "id": "242247f2-9042-4797-942e-eb61e085201a",
+    "data": [
+      {
+        "text": "I will pay with a ",
+        "userDefined": false
+      },
+      {
+        "text": "VISA",
+        "meta": "@CardType",
+        "alias": "CardType",
+        "userDefined": true
+      },
+      {
+        "text": " card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ef253ab-8175-4497-9220-c51e95e95f16",
+    "data": [
+      {
+        "text": "I want to pay with cash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
